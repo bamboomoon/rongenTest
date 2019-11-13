@@ -29,10 +29,10 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>bundle ID</string>
+                <string>com.hrayw.sfaapp</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
-                <key>1.1.4</key>
+                <string>1.1.4</string>
+                <key>kind</key>
                 <string>software</string>
                 <key>title</key>
                 <string>华人爱iOS</string>
